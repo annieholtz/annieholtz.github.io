@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a PhD student at The University of Edinburgh where I work in close association with the [CLE](http://www.lel.ed.ac.uk/cle/) and I am conducting my research under the supervision of Dr. Jennifer Culbertson and Professor Simon Kirby.
+I am a PhD student at The University of Edinburgh where I work in close association with the [CLE](http://www.lel.ed.ac.uk/cle/) and my research is conducted under the supervision of Dr. Jennifer Culbertson and Professor Simon Kirby.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

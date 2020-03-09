@@ -15,7 +15,9 @@ Elmo project - ELfLanD
 British vs American IDS segmentation project - ELfLanD (see research output)   
 Lead experimenter on reduplication study - ELfLanD (see research output)  
 Research Assistant on artificial language learning study - Dr. Jennifer Culbertson (CLE)  
-Outreach workshops - [UKLO](https://www.uklo.org/)  
+Outreach workshops in schools- [UKLO](https://www.uklo.org/)  
+Teaching Assistant - Online Experiments with jsPsych
+
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

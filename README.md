@@ -19,7 +19,6 @@ Outreach workshops in schools- [UKLO](https://www.uklo.org/)
 Teaching Assistant - Online Experiments with jsPsych
 
 ### Small image
-### Small image
 
 ![Headshot](https://github.com/annieholtz/annieholtz/blob/master/images/annie.png)
 

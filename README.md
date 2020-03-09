@@ -1,5 +1,6 @@
 ## Introduction
 
+<img src="https://annieholtz.github.io/annieholtz/images/annie.png" width="172">
 I am a PhD student at The University of Edinburgh where I work in close association with the [CLE](http://www.lel.ed.ac.uk/cle/) (Centre for Language Evolution) and my research is conducted under the supervision of Dr. Jennifer Culbertson and Professor Simon Kirby.
 
 
@@ -16,11 +17,7 @@ British vs American IDS segmentation project - ELfLanD (see research output)
 Lead experimenter on reduplication study - ELfLanD (see research output)  
 Research Assistant on artificial language learning study - Dr. Jennifer Culbertson (CLE)  
 Outreach workshops in schools- [UKLO](https://www.uklo.org/)  
-Teaching Assistant - Online Experiments with jsPsych
-
-### Small image
-
-<img src="https://annieholtz.github.io/annieholtz/images/annie.png" width="345">
+Teaching Assistant - Online Experiments with jsPsych  
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

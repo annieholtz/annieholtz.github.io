@@ -20,7 +20,7 @@ Teaching Assistant - Online Experiments with jsPsych
 
 ### Small image
 
-![Headshot](https://github.com/annieholtz/annieholtz/blob/master/images/annie.png)
+![Headshot](https://github.com/annieholtz/annieholtz/images/annie.png)
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

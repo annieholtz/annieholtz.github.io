@@ -33,9 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annieholtz/annieholtz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
-Feel free to contact me with any questions regarding my research.
-Email: annie.holtz@ed.ac.uk
-Office address:   Room 1.15
-                  Dugald Stewart Building
-                  3 Charles Street, Edinburgh
-                  EH8 9AD
+Feel free to contact me with any questions regarding my research.\
+Email: annie.holtz@ed.ac.uk\
+Office address:   Room 1.15\
+                  Dugald Stewart Building\
+                  3 Charles Street, Edinburgh\
+                  EH8 9AD\

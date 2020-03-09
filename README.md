@@ -18,6 +18,10 @@ Research Assistant on artificial language learning study - Dr. Jennifer Culberts
 Outreach workshops in schools- [UKLO](https://www.uklo.org/)  
 Teaching Assistant - Online Experiments with jsPsych
 
+### Small image
+### Small image
+
+![Headshot](https://github.com/annieholtz/annieholtz/blob/master/images/annie.png)
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

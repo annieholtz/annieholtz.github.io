@@ -30,7 +30,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Projects and experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annieholtz/annieholtz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+CLAN transcriptions - ELfLanD  
+Elmo project - ELfLanD  
+British vs American IDS segmentation project - ELfLanD (see research output)   
+Lead experimenter on reduplication study - ELfLanD (see research output)  
+Research Assistant on artificial language learning study - Dr. Jennifer Culbertson (CLE)  
+Outreach workshops - [UKLO](https://www.uklo.org/)  
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

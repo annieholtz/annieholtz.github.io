@@ -24,7 +24,7 @@ Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is priv
 
 Holtz, A. (2019, April). Cognitive biases and how they shape typology. Presented at [ULAB9](https://www.ulab.org.uk/conferences/conferences/36), Queen Mary University of London, London, UK  
 
-Ota, M., Barrera Navarro, M., Go, L., Heimann, J., Holtz, A., Little, S., O'Connor, R. & Skarabela, B. Do British mothers use less exaggerated infant-directed speech than American mothers?. (2018, June) Presented at The Child Language Symposium, University of Reading, UK
+Ota, M., Barrera Navarro, M., Go, L., Heimann, J., Holtz, A., Little, S., O'Connor, R. & Skarabela, B. Do British mothers use less exaggerated infant-directed speech than American mothers? (2018, June) Presented at The Child Language Symposium, University of Reading, UK
 
 Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of the same coin. Presented at [ULAB8](https://www.ulab.org.uk/conferences/conferences/35), The University of Edinburgh, Edinburgh, UK
 

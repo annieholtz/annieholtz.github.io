@@ -20,11 +20,11 @@ Outreach workshops in schools- [UKLO](https://www.uklo.org/)
 Teaching Assistant - Online Experiments with jsPsych  
 
 ### Conference presentations
-Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at The 44th Boston University Conference on Language Development, Boston University, Boston, MA  
+Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at [The 44th Boston University Conference on Language Development](http://www.bu.edu/bucld/files/2019/11/BUCLD-44-Schedule-and-Abstracts.pdf), Boston University, Boston, MA  
 
-Holtz, A. (2019, April). Cognitive biases and how they shape typology. Presented at ULAB9, Queen Mary University of London, London, England  
+Holtz, A. (2019, April). Cognitive biases and how they shape typology. Presented at [ULAB9](https://www.ulab.org.uk/conferences/conferences/36), Queen Mary University of London, London, England  
 
-Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of the same coin. Presented at ULAB8, The University of Edinburgh, Edinburgh, Scotland
+Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of the same coin. Presented at [ULAB8](https://www.ulab.org.uk/conferences/conferences/35), The University of Edinburgh, Edinburgh, Scotland
 
 ### Contact
 Feel free to contact me with any questions regarding my research.  

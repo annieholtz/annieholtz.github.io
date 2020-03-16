@@ -1,7 +1,7 @@
 ## Introduction
 
 <img src="https://annieholtz.github.io/images/annie.png" width="172">  
-I am a PhD student at The University of Edinburgh where I work in close association with the [CLE](http://www.lel.ed.ac.uk/cle/) (Centre for Language Evolution) and my research is conducted under the supervision of Dr. Jennifer Culbertson and Professor Simon Kirby.
+I am a PhD student at The University of Edinburgh where I work in close association with the [CLE](http://www.lel.ed.ac.uk/cle/) (Centre for Language Evolution) and my research is conducted under the supervision of [Dr. Jennifer Culbertson](https://jennifer-culbertson.github.io/) and [Professor Simon Kirby](http://www.lel.ed.ac.uk/~simon/).
 
 
 

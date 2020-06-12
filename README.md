@@ -9,15 +9,8 @@ I am a PhD student at The University of Edinburgh where I work in close associat
 
 My PhD research compares naturalness and simplicity phenomena acorss phonology and syntax using experimental methods. I am especially interested in how the learnability of natural and simple systems affects typological regularities and how natural and simple patterns are generalised to new forms by learners. I also conduct research on language development/acquisition, focusing mainly on phonological segmentation in relation to the typological frequency of syllable patterns in infant directed speech. This latter research has been done in collaboration with [Dr. Mits Ota](http://www.lel.ed.ac.uk/~mits/) and Dr. Barbora Skarabela and the team at [ELfLanD](https://www.elfland.ppls.ed.ac.uk/).
 
-### Previous projects
-
-CLAN transcriptions - ELfLanD  
-Elmo project - ELfLanD  
-British vs American IDS segmentation project - ELfLanD (see research output)   
-Lead experimenter on reduplication study - ELfLanD (see research output)  
-Research Assistant on artificial language learning study - Dr. Jennifer Culbertson (CLE)  
-Outreach workshops in schools - [UKLO](https://www.uklo.org/)  
-Teaching Assistant - Online Experiments with jsPsych  
+### Publications
+Martin, A., Holtz, A., Abels, K., Adger, D., & Culbertson, J. (forthcoming) Experimental evidence for the influence of structure and meaning on linear order in the noun phrase. *Glossa*.
 
 ### Conference presentations
 Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at [The 44th Boston University Conference on Language Development](http://www.bu.edu/bucld/files/2019/11/BUCLD-44-Schedule-and-Abstracts.pdf), Boston University, Boston, MA  

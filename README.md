@@ -7,7 +7,7 @@ I am a PhD student at The University of Edinburgh where I work in close associat
 
 ### Research summary
 
-My PhD research investigates the origins of cross-linguistic patterns in NPs using experimental methods. I am especially interested in artificial language learning, and gestural experiments, and their reflection on the cognitive features involved in language creation and use. I also conduct research on language development/acquisition, focusing mainly on phonological segmentation and the typological frequency of syllable patterns in infant directed speech. This latter research has been done in collaboration with Dr. Mits Ota and Dr. Barbora Skarabela and the team at [ELfLanD](https://www.elfland.ppls.ed.ac.uk/).
+My PhD research compares naturalness and simplicity phenomena acorss phonology and syntax using experimental methods. I am especially interested in how the learnability of natural and simple systems affects typological regularities and how natural and simple patterns are generalised to new forms by learners. I also conduct research on language development/acquisition, focusing mainly on phonological segmentation in relation to the typological frequency of syllable patterns in infant directed speech. This latter research has been done in collaboration with [Dr. Mits Ota](http://www.lel.ed.ac.uk/~mits/) and Dr. Barbora Skarabela and the team at [ELfLanD](https://www.elfland.ppls.ed.ac.uk/).
 
 ### Previous projects
 

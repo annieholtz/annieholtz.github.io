@@ -23,7 +23,7 @@ Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of
 ### Posters
 Holtz, A (2019, October). Challenging Functional Explanations of Variable TD Deletion in American English. At the 69th Edinburgh Language Lunch, The University of Edinburgh, Edinburgh, UK 
 
-## Contact
+#### Contact
 Feel free to contact me with any questions regarding my research.  
 Email: annie.holtz@ed.ac.uk  
 Office address:  

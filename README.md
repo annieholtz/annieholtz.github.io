@@ -12,16 +12,18 @@ My PhD research compares naturalness and simplicity phenomena acorss phonology a
 Martin, Alexander, Annie Holtz, Klaus Abels, David Adger and Jennifer Culbertson. 2020. Experimental evidence for the influence of structure and meaning on linear order in the noun phrase. *Glossa: a journal of general linguistics* 5(1): 97. 1–21. DOI: [https://doi.org/10.5334/gjgl.1085  ](https://doi.org/10.5334/gjgl.1085)
 
 ### Presentations
-Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at [The 44th Boston University Conference on Language Development](http://www.bu.edu/bucld/files/2019/11/BUCLD-44-Schedule-and-Abstracts.pdf), Boston University, Boston, MA  
+Holtz, A. (2020, accepted but conference cancelled due to Covid-19). Challenging Functional Explanations of Variable TD Deletion in American English. At ULABX.
 
-Holtz, A. (2019, April). Cognitive biases and how they shape typology. Presented at [ULAB9](https://www.ulab.org.uk/conferences/conferences/36), Queen Mary University of London, London, UK  
+Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at [The 44th Boston University Conference on Language Development](http://www.bu.edu/bucld/files/2019/11/BUCLD-44-Schedule-and-Abstracts.pdf), Boston University, Boston, MA.  
 
-Ota, M., Barrera Navarro, M., Go, L., Heimann, J., Holtz, A., Little, S., O'Connor, R. & Skarabela, B. (2018, June). Do British mothers use less exaggerated infant-directed speech than American mothers? Presented at The Child Language Symposium, University of Reading, Reading, UK
+Holtz, A. (2019, April). Cognitive biases and how they shape typology. Presented at [ULAB9](https://www.ulab.org.uk/conferences/conferences/36), Queen Mary University of London, London, UK.  
 
-Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of the same coin. Presented at [ULAB8](https://www.ulab.org.uk/conferences/conferences/35), The University of Edinburgh, Edinburgh, UK
+Ota, M., Barrera Navarro, M., Go, L., Heimann, J., Holtz, A., Little, S., O'Connor, R. & Skarabela, B. (2018, June). Do British mothers use less exaggerated infant-directed speech than American mothers? Presented at The Child Language Symposium, University of Reading, Reading, UK.
+
+Holtz, A. (2018, April). Mutual exclusivity and synonymy avoidance: Two sides of the same coin. Presented at [ULAB8](https://www.ulab.org.uk/conferences/conferences/35), The University of Edinburgh, Edinburgh, UK.
 
 ### Posters
-Holtz, A (2019, October). Challenging Functional Explanations of Variable TD Deletion in American English. At the 69th Edinburgh Language Lunch, The University of Edinburgh, Edinburgh, UK 
+Holtz, A (2019, October). Challenging Functional Explanations of Variable TD Deletion in American English. At the 69th Edinburgh Language Lunch, The University of Edinburgh, Edinburgh, UK. 
 
 #### Contact
 Feel free to contact me with any questions regarding my research.  

@@ -9,7 +9,7 @@ I am a PhD student at The University of Edinburgh where I work in close associat
 My PhD research compares naturalness and simplicity phenomena acorss phonology and syntax using experimental methods. I am especially interested in how the learnability of natural and simple systems affects typological regularities and how natural and simple patterns are generalised to new forms by learners. I also conduct research on language development/acquisition, focusing mainly on phonological segmentation in relation to the typological frequency of syllable patterns in infant directed speech. This latter research has been done in collaboration with [Dr. Mits Ota](http://www.lel.ed.ac.uk/~mits/) and Dr. Barbora Skarabela and the team at [ELfLanD](https://www.elfland.ppls.ed.ac.uk/).
 
 ### Publications
-Martin, A., Holtz, A., Abels, K., Adger, D., & Culbertson, J. (forthcoming) Experimental evidence for the influence of structure and meaning on linear order in the noun phrase. *Glossa*.
+Martin, Alexander, Annie Holtz, Klaus Abels, David Adger and Jennifer Culbertson. 2020. Experimental evidence for the influence of structure and meaning on linear order in the noun phrase. *Glossa: a journal of general linguistics* 5(1): 97. 1–21. DOI: https://doi.org/10.5334/gjgl.1085  
 
 ### Presentations
 Ota, M., Holtz, A. & Skarabela, B. (2019, November). Syllable repetition is privileged over consonantrepetition in infant word segmentation. Presented at [The 44th Boston University Conference on Language Development](http://www.bu.edu/bucld/files/2019/11/BUCLD-44-Schedule-and-Abstracts.pdf), Boston University, Boston, MA  

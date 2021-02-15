@@ -3287,9 +3287,9 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header nav a[href="#menu"] {
-				width: 5.5em;
+				width: 4em;
 				white-space: nowrap;
-				text-indent: 5.5em;
+				text-indent: 4em;
 				position: relative;
 			}
 

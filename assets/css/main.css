@@ -3256,8 +3256,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				height: 2.75em;
-				line-height: 2.75em;
+				height: 5em;
+				line-height: 5em;
 			}
 
 				#header nav {

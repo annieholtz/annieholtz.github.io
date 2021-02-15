@@ -3256,8 +3256,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				height: 5em;
-				line-height: 5em;
+				height: 2.75em;
+				line-height: 2.75em;
 			}
 
 				#header nav {
@@ -3287,9 +3287,9 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header nav a[href="#menu"] {
-				width: 4em;
+				width: 5.5em;
 				white-space: nowrap;
-				text-indent: 4em;
+				text-indent: 5.5em;
 				position: relative;
 			}
 

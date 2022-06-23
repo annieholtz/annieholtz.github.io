@@ -3538,7 +3538,6 @@ input, select, textarea {
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
-			text-transform: lowercase;
 		}
 
 		@media screen and (max-width: 1280px) {
